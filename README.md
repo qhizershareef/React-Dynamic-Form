@@ -1,3 +1,21 @@
+# Little Intro before you install this project
+This project helps in scenarios where you have to build several forms with different input fields,
+assuming you already have data defined in a JSON file. 
+Just import the data and the form will be built automatically and it will be ready to use.
+
+this here is a sample image on how the form would look like for the data present in FormData.js file.
+![Sample Form image](/assets/images/Screenshot%202023-01-15%20232131.png)
+this is the output generated from the form, you may use it to dispatch the data to your backend.
+![Sample Form image](/assets/images/Screenshot%202023-01-15%20232154.png)
+
+
+# Note the dependencies
+Its built using node v16.13.0
+npm v8.1.0
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
