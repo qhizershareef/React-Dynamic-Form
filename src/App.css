@@ -1,0 +1,12 @@
+.border_Style{
+    border-right: 2px solid rgba(167, 163, 163, 0.63);
+}
+
+@media screen and (max-width: 768px) {
+    .border_Style{
+        border-right: none;
+        border-bottom: 2px solid rgba(167, 163, 163, 0.63);
+        padding-bottom: 10px;
+    }
+}
+    
